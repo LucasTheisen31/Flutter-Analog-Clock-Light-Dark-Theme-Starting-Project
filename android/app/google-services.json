@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933965947766",
+    "project_id": "aplicativo-relogio",
+    "storage_bucket": "aplicativo-relogio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933965947766:android:feca036288c5ce128ed057",
+        "android_client_info": {
+          "package_name": "com.example.analog_clock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933965947766-dj4qjv3q9vm1sdbu0kapj8s0cc4obouk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPlubBXQDQ_fw0DwCHAcayk5M93StIfkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933965947766-dj4qjv3q9vm1sdbu0kapj8s0cc4obouk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
